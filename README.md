@@ -26,7 +26,6 @@ keep you highest score.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [iOS Academy](https://www.youtube.com/c/iOSAcademy)
 * [Swift/Xcode documentation](https://developer.apple.com/documentation/)
 

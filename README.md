@@ -17,7 +17,7 @@ progress though! The app uses User Defaults as local storage,
 meaning that the next time you get on the app you'll still
 keep you highest score.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YxqAcLoHcr8)
 
 # Development Environment
 
